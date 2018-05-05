@@ -1,5 +1,6 @@
 // import { BaseTestClass } from "./module1";
 
+
 class Startup {
     public static main(i: number): number {
         if (i === 10) {
